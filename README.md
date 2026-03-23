@@ -11,7 +11,7 @@ terraform validate
 terraform plan
 
 ## Output
-(attach screenshot here)
+<img width="296" height="958" alt="plan-output" src="https://github.com/user-attachments/assets/d223cae2-f4a2-44e4-953e-90f91a30bd38" />
 
 ## Skills demonstrated
 - Terraform modules
